@@ -31,6 +31,7 @@ Desna,Bobcat,Bobcat,AMD,1.5,4
 Dublin,Mobile Sempron,K8,AMD,2,4
 Egypt,Opteron,K8,AMD,2,4
 Georgetown,Mobile Sempron,K8,AMD,2,4
+Godaveri,Steamroller,Bulldozer,AMD,8,16
 Heka,Phenom II,K10.5,AMD,4,8
 Interlagos,Bulldozer,Bulldozer,AMD,8,16
 Italy,Opteron,K8,AMD,2,4
@@ -52,7 +53,7 @@ Morgan,Duron,K7,AMD,2,4
 Mullins,Puma,Jaguar,AMD,3,8
 Naples,Zen,Zen,AMD,8,16
 Newark,Mobile Athlon 64,K8,AMD,2,4
-Newcastle,Athlon 64,K8,AMD,2,4
+NewCastle,Athlon 64,K8,AMD,2,4
 Oakville,Mobile Athlon 64,K8,AMD,2,4
 Odessa,Mobile Athlon 64,K8,AMD,2,4
 Ontario,Bobcat,Bobcat,AMD,1.5,4
@@ -76,7 +77,7 @@ Santa Rosa,Opteron,K8,AMD,2,4
 Sargas,Sempron,K10.5,AMD,4,8
 Seoul,Piledriver,Bulldozer,AMD,8,16
 Sharptooth,K6-3,K6,AMD,4,0.5
-Sledgehammer,Opteron,K8,AMD,2,4
+SledgeHammer,Opteron,K8,AMD,2,4
 Sonora,Mobile Sempron,K8,AMD,2,4
 Sparta,Sempron,K8,AMD,2,4
 Spitfire,Duron,K7,AMD,2,4
@@ -119,6 +120,7 @@ Bloomfield,,Nehalem,Intel,4,8
 Broadwell,,Haswell,Intel,16,32
 Broadwell-DT,,Haswell,Intel,16,32
 Broadwell-E,,Haswell,Intel,16,32
+Cascade Lake-X,,Skylake,Intel,16,32
 Cedar Mill,,NetBurst,Intel,2,4
 Clarkdale,,Nehalem,Intel,4,8
 Coffee Lake,,Skylake,Intel,16,32
@@ -126,7 +128,7 @@ Coffee Lake-S,,Skylake,Intel,16,32
 Conroe,,Core,Intel,4,8
 Conroe XE,,Core,Intel,4,8
 Conroe-CL,,Core,Intel,4,8
-Conroe-l,,Core,Intel,4,8
+Conroe-L,,Core,Intel,4,8
 Coppermine,,P6,Intel,1,4
 Coppermine T,,P6,Intel,1,4
 Deschutes,,P6,Intel,1,4
