@@ -1,0 +1,1 @@
+This project is designed to forecast the performance of new hardware compared against projected future game requirements. The main.py file is the interface for the project and contains instructions for generating comparisons. 
