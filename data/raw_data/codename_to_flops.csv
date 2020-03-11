@@ -1,0 +1,175 @@
+﻿Code name,Family,Microachitecture,Manufacturer,dp_flops,sp_flops
+25-120,Am486,Am486,AMD,#N/A,#N/A
+5k86,AMD K6,K6,AMD,0.5,0.5
+Abu Dhabi,Piledriver,Bulldozer,AMD,8,16
+Agena,Phenom,K10,AMD,4,8
+Albany,Mobile Sempron,K8,AMD,2,4
+Applebred,Duron,K7,AMD,2,4
+Argon,Athlon,K7,AMD,2,4
+Athens,Opteron,K8,AMD,2,4
+Barcelona,Opteron,K10,AMD,4,8
+Barton,Athlon XP/MP,K7,AMD,2,4
+Beema,Puma,Jaguar,AMD,3,8
+Brisbane,Athlon 64 X2,K8,AMD,2,4
+Bristol Ridge,Excavator,Bulldozer,AMD,8,16
+Budapest,Opteron,K10,AMD,4,8
+Callisto,Phenom II,K10.5,AMD,4,8
+Camaro,Mobile Duron,K7,AMD,2,4
+Carrizo,Excavator,Bulldozer,AMD,8,16
+Carrizo-L,Puma,Jaguar,AMD,3,8
+Caspian,Turion II,K10.5,AMD,4,8
+Chomper,AMD K6-2,K6,AMD,4,0.5
+Chomper Extended,AMD K6-2,K6,AMD,4,0.5
+Clawhammer,Athlon 64 FX,K8,AMD,2,4
+Colfax,Zen+,Zen,AMD,8,16
+Corvette,Athlon 4,K7,AMD,2,4
+Crowned Eagle,Puma,Jaguar,AMD,3,8
+Delhi,Piledriver,Bulldozer,AMD,8,16
+Deneb,Phenom II,K10.5,AMD,4,8
+Denmark,Opteron,K8,AMD,2,4
+Desna,Bobcat,Bobcat,AMD,1.5,4
+Dublin,Mobile Sempron,K8,AMD,2,4
+Egypt,Opteron,K8,AMD,2,4
+Georgetown,Mobile Sempron,K8,AMD,2,4
+Godaveri,Steamroller,Bulldozer,AMD,8,16
+Heka,Phenom II,K10.5,AMD,4,8
+Interlagos,Bulldozer,Bulldozer,AMD,8,16
+Italy,Opteron,K8,AMD,2,4
+Kabini,Jaguar,Jaguar,AMD,3,8
+Kaveri,Steamroller,Bulldozer,AMD,8,16
+Keene,Mobile Sempron,K8,AMD,2,4
+Kuma,Athlon X2,K10,AMD,4,8
+Kyoto,Jaguar,Jaguar,AMD,3,8
+Lancaster,Turion 64,K8,AMD,2,4
+Lima,Athlon 64,K8,AMD,2,4
+Littlefoot,AMD K7,K7,AMD,2,4
+Llano,Llano,K10.5,AMD,4,8
+LX-Family,Puma,Jaguar,AMD,3,8
+Manchester,Athlon 64 X2,K8,AMD,2,4
+Manila,Sempron,K8,AMD,2,4
+Matisse,Zen 2,Zen,AMD,8,16
+Model 6,AMD K6,K6,AMD,0.5,0.5
+Morgan,Duron,K7,AMD,2,4
+Mullins,Puma,Jaguar,AMD,3,8
+Naples,Zen,Zen,AMD,8,16
+Newark,Mobile Athlon 64,K8,AMD,2,4
+NewCastle,Athlon 64,K8,AMD,2,4
+Oakville,Mobile Athlon 64,K8,AMD,2,4
+Odessa,Mobile Athlon 64,K8,AMD,2,4
+Ontario,Bobcat,Bobcat,AMD,1.5,4
+Orleans,Athlon 64,K8,AMD,2,4
+Palermo,Sempron,K8,AMD,2,4
+Palomino,Athlon XP/MP,K7,AMD,2,4
+Paris,Sempron,K8,AMD,2,4
+Picasso,Zen+,Zen,AMD,8,16
+Pinnacle Ridge,Zen+,Zen,AMD,8,16
+Pluto/Orion,Athlon,K7,AMD,2,4
+Propus,Athlon II,K10.5,AMD,4,8
+Rana,Athlon II,K10.5,AMD,4,8
+Raven Ridge,Zen,Zen,AMD,8,16
+Regor,Athlon II,K10.5,AMD,4,8
+Richland,Piledriver,Bulldozer,AMD,8,16
+Richmond,Turion 64,K8,AMD,2,4
+Roma,Mobile Sempron,K8,AMD,2,4
+San Diego,Athlon 64 FX,K8,AMD,2,4
+Santa Ana,Opteron,K8,AMD,2,4
+Santa Rosa,Opteron,K8,AMD,2,4
+Sargas,Sempron,K10.5,AMD,4,8
+Seoul,Piledriver,Bulldozer,AMD,8,16
+Sharptooth,K6-3,K6,AMD,4,0.5
+SledgeHammer,Opteron,K8,AMD,2,4
+Sonora,Mobile Sempron,K8,AMD,2,4
+Sparta,Sempron,K8,AMD,2,4
+Spitfire,Duron,K7,AMD,2,4
+SSA/5,AMD K5,K5,AMD,0.5,0.5
+Stepped Eagle,Puma,Jaguar,AMD,3,8
+Summit Ridge,Zen,Zen,AMD,8,16
+Sx/SxL/SxLV,Am386,Am386,AMD,#N/A,#N/A
+Taylor,Turion 64 X2,K8,AMD,2,4
+Temash,Jaguar,Jaguar,AMD,3,8
+Thoroughbred,Athlon XP/MP,K7,AMD,2,4
+Thoroughbred-B,Sempron,K7,AMD,2,4
+Thorton,Athlon XP/MP,K7,AMD,2,4
+Thuban,Phenom II,K10.5,AMD,4,8
+Thunderbird,Athlon,K7,AMD,2,4
+Thunderbird B,Athlon,K7,AMD,2,4
+Thunderbird C,Athlon,K7,AMD,2,4
+Toledo,Athlon 64 FX,K8,AMD,2,4
+Toliman,Phenom,K10,AMD,4,8
+Trinidad,Turion 64 X2,K8,AMD,2,4
+Trinity,Piledriver,Bulldozer,AMD,8,16
+Troy,Opteron,K8,AMD,2,4
+Tyler,Turion 64 X2,K8,AMD,2,4
+Valencia,Bulldozer,Bulldozer,AMD,8,16
+Venice,Athlon 64,K8,AMD,2,4
+Venus,Opteron,K8,AMD,2,4
+Vishera,Piledriver,Bulldozer,AMD,8,16
+Whitehaven,Zen,Zen,AMD,8,16
+Winchester,Athlon 64,K8,AMD,2,4
+Windsor,Athlon 64 FX,K8,AMD,2,4
+X5-133,Am5x86,Am5x86,AMD,#N/A,#N/A
+Zacate,Bobcat,Bobcat,AMD,1.5,4
+Zambezi,Bulldozer,Bulldozer,AMD,8,16
+Zen,Zen,Zen,AMD,8,16
+Zosma,Phenom II,K10.5,AMD,4,8
+Zurich,Bulldozer,Bulldozer,AMD,8,16
+Allendale,,Core,Intel,4,8
+Amber Lake,,Skylake,Intel,16,32
+Banias,,Pentium M,Intel,2,4
+Bloomfield,,Nehalem,Intel,4,8
+Broadwell,,Haswell,Intel,16,32
+Broadwell-DT,,Haswell,Intel,16,32
+Broadwell-E,,Haswell,Intel,16,32
+Cascade Lake-X,,Skylake,Intel,16,32
+Cedar Mill,,NetBurst,Intel,2,4
+Clarkdale,,Nehalem,Intel,4,8
+Coffee Lake,,Skylake,Intel,16,32
+Coffee Lake-S,,Skylake,Intel,16,32
+Conroe,,Core,Intel,4,8
+Conroe XE,,Core,Intel,4,8
+Conroe-CL,,Core,Intel,4,8
+Conroe-L,,Core,Intel,4,8
+Coppermine,,P6,Intel,1,4
+Coppermine T,,P6,Intel,1,4
+Deschutes,,P6,Intel,1,4
+Devil's Canyon,,Haswell,Intel,16,32
+Dothian,,Pentium M,Intel,2,4
+Gallatin,,NetBurst,Intel,2,4
+Gulftown,,Nehalem,Intel,4,8
+Haswell,,Haswell,Intel,16,32
+Haswell-DT,,Haswell,Intel,16,32
+Haswell-E,,Haswell,Intel,16,32
+Ivy Bridge,,Sandy Bridge,Intel,8,16
+Ivy Bridge-E,,Sandy Bridge,Intel,8,16
+Kaby Lake,,Skylake,Intel,16,32
+Kaby Lake-S,,Skylake,Intel,16,32
+Kaby Lake-X,,Skylake,Intel,16,32
+Katmai,,P6,Intel,1,4
+Kentsfield,,Core,Intel,4,8
+Klamath,,P6,Intel,1,4
+Lynnfield,,Nehalem,Intel,4,8
+Merom,,Core,Intel,4,8
+Nehalem,,Nehalem,Intel,4,8
+Northwood,,NetBurst,Intel,2,4
+P5,,P5,Intel,1,1
+Penryn,,Core,Intel,4,8
+Pentium,,P5,Intel,1,1
+Pentium II,,P6,Intel,1,4
+Pentium III,,P6,Intel,1,4
+Pentium Pro,,P6,Intel,1,4
+Prescott,,NetBurst,Intel,2,4
+Presler,,NetBurst,Intel,2,4
+Sandy Bridge,,Sandy Bridge,Intel,8,16
+Sandy Bridge-E,,Sandy Bridge,Intel,8,16
+Skylake,,Skylake,Intel,16,32
+Skylake-S,,Skylake,Intel,16,32
+Skylake-W,,Skylake,Intel,16,32
+Skylake-X,,Skylake,Intel,16,32
+Smithfield,,NetBurst,Intel,2,4
+Tualatin,,P6,Intel,1,4
+Westmere,,Nehalem,Intel,4,8
+Whiskey Lake,,Skylake,Intel,16,32
+Willamette,,NetBurst,Intel,2,4
+Wolfdale,,Core,Intel,4,8
+Yonah,,NetBurst,Intel,2,4
+Yorkfield,,Core,Intel,4,8
